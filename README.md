@@ -1,3 +1,3 @@
 # dianto.sk
 
-Static site for Dianto s.r.o. Preview: https://novy.dianto.sk
+Static site for Dianto s.r.o. Live: https://dianto.sk
